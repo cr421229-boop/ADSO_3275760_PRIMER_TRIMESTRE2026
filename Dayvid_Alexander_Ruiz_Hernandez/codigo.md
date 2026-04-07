@@ -1,6 +1,6 @@
 [link de los codigos] (https://github.com/dayvidx2/codigos_completos.git)
 
-Aquí tienes la lista de los archivos que aparecen en tus capturas de pantalla, enumerados en el orden en que se visualizan:
+CODIGOS
 
 1. 2.py
 
