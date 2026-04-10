@@ -1,5 +1,5 @@
-URL: [ CLICK ] ([text](https://github.com/Nvc2506/Ejercicios_Codigo_Juan)
-Aquí tienes la lista en formato de texto plano para que puedas copiar tanto el número como el nombre del archivo sin problemas:
+URL: [ CLICK ] https://github.com/Nvc2506/Ejercicios_Codigo_Juan
+
 
 1 Zoologico.py
 
